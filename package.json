@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoshuaAN/CrashDrive/issues"
   },
-  "homepage": "https://github.com/JoshuaAN/CrashDrive#readme"
+  "homepage": "https://github.com/JoshuaAN/CrashDrive#readme",
+  "dependencies": {
+    "vite": "^2.9.5"
+  }
 }
