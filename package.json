@@ -1,0 +1,19 @@
+{
+  "name": "crashdrive",
+  "version": "1.0.0",
+  "description": "A game written in HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaAN/CrashDrive.git"
+  },
+  "author": "JoshuaAN, DarthFloopy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshuaAN/CrashDrive/issues"
+  },
+  "homepage": "https://github.com/JoshuaAN/CrashDrive#readme"
+}
